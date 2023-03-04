@@ -1,5 +1,7 @@
 hello xiaowen-classmate
 hello xiaowen-classmate
 hello xiaowen-classmate
+<<<<<<< HEAD
 i love xiaowen
-这个是other分支里面的数据
+这个是other分支
+这个是hot-fix分支
